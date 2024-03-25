@@ -10,7 +10,6 @@ Funcionalidades
 
 Pré-requisitos
 
-    Dispositivo Android com versão X.X ou superior.
     Permissão de câmera concedida.
 
 Uso
